@@ -1,0 +1,21 @@
+﻿  Perfil.c
+C:\Users\jjsco\Desktop\CaraLivroW\CaraLivro\CaraLivro\Pilha.h(39,56): warning C4028: parâmetro formal 1 diferente da declaração
+C:\Users\jjsco\Desktop\CaraLivroW\CaraLivro\CaraLivro\Pilha.h(40,94): warning C4028: parâmetro formal 1 diferente da declaração
+C:\Users\jjsco\Desktop\CaraLivroW\CaraLivro\CaraLivro\Pilha.h(40,94): warning C4028: parâmetro formal 2 diferente da declaração
+C:\Users\jjsco\Desktop\CaraLivroW\CaraLivro\CaraLivro\Pilha.h(41,76): warning C4028: parâmetro formal 1 diferente da declaração
+C:\Users\jjsco\Desktop\CaraLivroW\CaraLivro\CaraLivro\Pilha.h(41,76): warning C4028: parâmetro formal 2 diferente da declaração
+C:\Users\jjsco\Desktop\CaraLivroW\CaraLivro\CaraLivro\Pilha.h(41,76): warning C4142: 'compararDado_f': redefinição benigna de tipo
+C:\Users\jjsco\Desktop\CaraLivroW\CaraLivro\CaraLivro\ListaE.h(50): message : consulte a declaração de 'compararDado_f'
+C:\Users\jjsco\Desktop\CaraLivroW\CaraLivro\CaraLivro\Perfil.c(36,16): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\jjsco\Desktop\CaraLivroW\CaraLivro\CaraLivro\Perfil.c(156,52): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'infoLista_t' para 'uint32_t'
+C:\Users\jjsco\Desktop\CaraLivroW\CaraLivro\CaraLivro\Perfil.c(148,6): warning C4101: 'i': variável local não referenciada
+C:\Users\jjsco\Desktop\CaraLivroW\CaraLivro\CaraLivro\Perfil.c(190,16): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\jjsco\Desktop\CaraLivroW\CaraLivro\CaraLivro\Perfil.c(194,61): warning C4113: 'boolean_t (__cdecl *)(infoPilha_t *,infoPilha_t)' difere em listas de parâmetro de 'atribuirDado_f'
+C:\Users\jjsco\Desktop\CaraLivroW\CaraLivro\CaraLivro\Perfil.c(257,16): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\jjsco\Desktop\CaraLivroW\CaraLivro\CaraLivro\Perfil.c(260,62): warning C4113: 'boolean_t (__cdecl *)(infoPilha_t *,infoPilha_t)' difere em listas de parâmetro de 'atribuirDado_f'
+C:\Users\jjsco\Desktop\CaraLivroW\CaraLivro\CaraLivro\Perfil.c(344,16): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\jjsco\Desktop\CaraLivroW\CaraLivro\CaraLivro\Perfil.c(69): warning C4716: 'desativarPerfil': deve retornar um valor
+C:\Users\jjsco\Desktop\CaraLivroW\CaraLivro\CaraLivro\Perfil.c(75): warning C4716: 'reativarPerfil': deve retornar um valor
+C:\Users\jjsco\Desktop\CaraLivroW\CaraLivro\CaraLivro\Perfil.c(335): warning C4716: 'adicionarAmizade': deve retornar um valor
+C:\Users\jjsco\Desktop\CaraLivroW\CaraLivro\CaraLivro\Perfil.c(339): warning C4716: 'desfazerAmizade': deve retornar um valor
+  CaraLivro.vcxproj -> C:\Users\jjsco\Desktop\CaraLivroW\CaraLivro\x64\Debug\CaraLivro.exe
